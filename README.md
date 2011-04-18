@@ -2,6 +2,10 @@
 
 This is a cheat sheet for the [LÖVE](http://love2d.org) engine's API, and is still a work in progress.
 
+## License
+
+The cheat sheet is licensed under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/) (CC BY 3.0).
+
 ## Contributing
 
 I'd love it if you could contribute to the cheat sheet. To do this, just make a fork of it on GitHub.
